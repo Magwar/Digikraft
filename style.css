@@ -1,0 +1,56 @@
+body{
+    margin: 0;
+    font-family: monospace;
+}
+a{
+    color: unset;
+    text-decoration: none;
+}
+.container{
+    width: 900px;
+    max-width: 90vw;
+    margin: auto;
+    padding-top: .8rem;
+    text-align: center;
+}
+.container h2{
+    font-size: xx-large;
+    padding: 20px 0;
+}
+.listProduct .item img{
+    width: 90%;
+    filter: drop-shadow(0 50px 20px #000900);
+}
+.listProduct{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 19px;
+}
+.listProduct .item{
+    background-color: #eeeee6;
+    padding: 20px;
+    border-radius: 20px;
+}
+.listProduct .item h3{
+    font-size: large;
+    font-weight: 500;
+}
+.listProduct .item .price{
+    letter-spacing: 7px;
+    font-size: small;
+}
+
+
+
+/* Ipad Screens */
+@media screen and (max-width: 992px){
+    .listProduct{
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
+/* Mobile Screens */
+@media screen and (max-width: 768px){
+    .listProduct{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
