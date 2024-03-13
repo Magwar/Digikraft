@@ -6,7 +6,6 @@ fetch('products.json')
     console.log(products);
     addDataToHTML();
     });
-
 let listProduct = document.querySelector('.listProduct');
 function addDataToHTML(){
     products.forEach(product => {
