@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "LD01 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/1.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 2,
+        "name": "LD02 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/2.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 3,
+        "name": "LD03 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/3.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 4,
+        "name": "LD04 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/4.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 5,
+        "name": "LD05 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/5.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 6,
+        "name": "LD06 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/6.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 7,
+        "name": "LD07 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/7.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    },
+    {
+        "id": 8,
+        "name": "LD08 LOUNGE CHAIR",
+        "price": 7000,
+        "image": "images/8.png",
+        "description": "Crafted by the visionary designer Luna Solis, the Cloudhaven Lounge defies traditional furniture. Its frame is constructed from a revolutionary material called nightshade, a bioluminescent wood that shimmers with an ethereal, twilight glow. This otherworldly wood is incredibly lightweight yet surprisingly strong, allowing the Cloudhaven to appear to float effortlessly."
+    }
+]
